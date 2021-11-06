@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Longdon Decorative';
+    src: url('LongdonDecorative.eot');
+    src: url('LongdonDecorative.eot?#iefix') format('embedded-opentype'),
+        url('LongdonDecorative.woff2') format('woff2'),
+        url('LongdonDecorative.woff') format('woff'),
+        url('LongdonDecorative.ttf') format('truetype'),
+        url('LongdonDecorative.svg#LongdonDecorative') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
