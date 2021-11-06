@@ -1,6 +1,6 @@
 # Longdon Decorative - Fixed
 
-
+![Screenshot of Longdon Decorative](screenshot.webp "Screenshot of Longdon Decorative")
 
 This repo contains the font Longdon Decorative by Roger White, which was originally released under an open source licence.
 
